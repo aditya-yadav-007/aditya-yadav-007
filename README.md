@@ -44,23 +44,23 @@ let myInfo = {
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="33%">
-
-
+<table><tr><td valign="top" width="25%">
 
 ### Frontend  
 <div align="center">  
  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>   
+    <a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="Java Script" height="50" /></a>   
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
 ### Backend  
 <div align="center">  
+   <a href="https://www.w3schools.com/c/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="50" /></a>   
    <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a>  
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
   <a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>  
@@ -70,7 +70,7 @@ let myInfo = {
 </a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -83,6 +83,15 @@ let myInfo = {
   <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a> 
 </div>
 
+<td valign="top" width="25%">
+
+### Others 
+<div align="center">  
+ 
+  <a href="https://arduino.cc" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="50" /></a>  
+  <a href="https://kali.org" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" height="50" /></a>   
+  <a href="https://www.raspberrypi.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" height="50" /></a>   
+</div>
 </td></tr>
 </table>  
 <br/>  
@@ -92,7 +101,8 @@ let myInfo = {
 I'm always eager to connect with fellow developers, tech enthusiasts, and collaborators. Feel free to reach out to me through the following channels:
 
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.ry2007@gmail.com)
-- [![Telegram](https://img.shields.io/badge/AdityaYadav-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the_wood_sage)
+- [![Telegram](https://img.shields.io/badge/AdityaYadav-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/The_direct@r)
+
 
 Let's connect and collaborate on exciting projects.
 
