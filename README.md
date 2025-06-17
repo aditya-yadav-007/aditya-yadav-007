@@ -23,7 +23,7 @@ let myInfo = {
     Class:"12th"  
   },
   skills: {
-    languages: ["Java", "Python"],
+    languages: ["Java", "Python","C"],
     frontend: ["HTML", "CSS"],
     databases: ["MySQL"]
   },
