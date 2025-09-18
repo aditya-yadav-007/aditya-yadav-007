@@ -15,23 +15,34 @@ let myInfo = {
   name: "Aditya Yadav",
   age: 16,
   about_me: {
-    role: "Developer",
-    catchphrase: "I don't always code, but when I do, I prefer to do it with style."
+    role: "Cyber Security Enthusiast",
+    catchphrase: "The quieter you become, the more you are able to hear"
   },
   education: {
     School: "St. John's School, B.L.W., Varanasi, India"
     Class:"12th"  
   },
   skills: {
-    languages: ["Java", "Python","C"],
-    frontend: ["HTML", "CSS"],
-    databases: ["MySQL"]
+    penetrationTesting: ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "Hashcat", "John the Ripper", "Aircrack-ng", "OpenVAS", "Nessus"],
+
+    reverseEngineering: ["Ghidra", "x64dbg", "Ollydbg", "Radare2"],
+
+    digitalForensics: ["Autopsy", "Volatility", "FTK Imager", "Sleuth Kit", "Memory & Disk Forensics"],
+
+    hardwarePentesting: ["SPI", "UART", "IIC", "JTAG", "SDR (Software Defined Radio)"],
+
+    networkingSecurity: ["TCP/IP", "DNS", "DHCP", "VPNs", "SSL/TLS", "Wi-Fi Security", "Packet Sniffing & Analysis"],
+
+    shellScripting: ["Bash", "PowerShell"],
+
+    Languages: ["C", "Python", "Assembly x64", "Java", "JavaScript", "C++", "MySQL", "COBOL", "FFmpeg"]
+
   },
-  favoriteLanguages: ["Java"],
-  projects: ["https://coderr.me"],
+  favoriteLanguages: ["Assembly x64"],
+  Website: ["https://aditya-yadav-007.github.io"],
   contact: {
     email: "aditya.ry2007@gmail.com",
-    telegram: "https://t.me/the_wood_sage"
+    telegram: "https://t.me/The_directr"
   },
   
   fun_facts:
@@ -44,46 +55,34 @@ let myInfo = {
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="33.33%">
 
-### Frontend  
+### Languages 
 <div align="center">  
  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>   
-    <a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="Java Script" height="50" /></a>   
-</div>
-
-</td><td valign="top" width="25%">
-
-
-
-### Backend  
-<div align="center">  
-   <a href="https://www.w3schools.com/c/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="50" /></a>   
-   <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a>  
+  
+  <a href="https://www.w3schools.com/c/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="50" /></a>
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
-  <a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>   
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50" /></a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>  
-</a>  
+  <a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>
+  <a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="Java Script" height="50"/></a>  
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50" /></a>    
+  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50" /></a>
 </div>
 
-</td><td valign="top" width="25%">
-
+</td><td valign="top" width="33.33%">
 
 
 ### DevOps  
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>  
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a> 
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=powershell" alt="Powershell" height="50" /></a> 
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" /></a>  
   <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a> 
 </div>
 
-<td valign="top" width="25%">
+<td valign="top" width="33.33%">
 
 ### Others 
 <div align="center">  
@@ -91,9 +90,13 @@ let myInfo = {
   <a href="https://arduino.cc" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="50" /></a>  
   <a href="https://kali.org" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" height="50" /></a>   
   <a href="https://www.raspberrypi.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" height="50" /></a>   
+   <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=md" alt="Markdown" height="50" /></a>
 </div>
+
 </td></tr>
+
 </table>  
+
 <br/>  
 
 ## ☎️ Get in Touch
