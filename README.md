@@ -3,14 +3,16 @@
 </div>
 
 ```
-  Passionate about understanding how things work—transforming nothing into something through curiosity, problem-solving, and hands-on exploration in cybersecurity, programming, and emerging tech.
+  Passionate about understanding how things work—transforming nothing into something through curiosity,
+  problem-solving, and hands-on exploration in cybersecurity, programming, and emerging tech.
 ```
 
 ## My Skill Set
 
 ```
 
-● Penetration Testing (Ethical Hacking) = Burp Suite, Metasploit, Nmap, Wireshark, Hashcat, John the Ripper, Aircrack-ng, OpenVAS, Nessus
+● Penetration Testing (Ethical Hacking) = Burp Suite, Metasploit, Nmap, Wireshark, Hashcat, John the Ripper, Aircrack-ng,
+ OpenVAS, Nessus
 
 ● Reverse Engineering = Ghidra, x64dbg, edb-debugger, Ollydbg, Radare2
 
