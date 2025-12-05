@@ -2,8 +2,48 @@
   <h1 style="border-bottom: none;">Hi, I'm Aditya!</h1>
 </div>
 
-```
-Passionate about understanding how things work—transforming nothing into something through curiosity, problem-solving, and hands-on exploration in cybersecurity, programming, and emerging tech.
+```ts
+
+let myInfo = {
+  name: "Aditya Yadav",
+  age: 18,
+  about_me: {
+    role: "Cyber Security Enthusiast",
+    catchphrase: "The quieter you become, the more you are able to hear"
+  },
+  education: {
+    School: "St. John's School, B.L.W., Varanasi, India"
+    Class:"12th"  
+  },
+  skills: {
+    penetrationTesting: ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "Hashcat", "John the Ripper", "Aircrack-ng", "OpenVAS", "Nessus"],
+
+    reverseEngineering: ["Ghidra", "x64dbg", "Ollydbg", "Radare2"],
+
+    digitalForensics: ["Autopsy", "Volatility", "FTK Imager", "Sleuth Kit", "Memory & Disk Forensics"],
+
+    hardwarePentesting: ["SPI", "UART", "IIC", "JTAG", "SDR (Software Defined Radio)"],
+
+    networkingSecurity: ["TCP/IP", "DNS", "DHCP", "VPNs", "SSL/TLS", "Wi-Fi Security", "Packet Sniffing & Analysis"],
+
+    shellScripting: ["Bash", "PowerShell"],
+
+    Languages: ["C", "Python", "Assembly x64", "Java", "JavaScript", "C++", "MySQL", "COBOL", "FFmpeg"]
+
+  },
+  favoriteLanguages: ["Assembly x64"],
+  Website: ["https://aditya-yadav-007.github.io"],
+  contact: {
+    email: "aditya.ry2007@gmail.com",
+    telegram: "https://t.me/The_directr"
+  },
+  
+  fun_facts:
+    [
+        "I once solved a bug by turning off my computer and turning it back on. It works like magic, trust me",
+        "I once debugged a complex issue for hours, only to find a missing semicolon was the culprit!"
+    ]
+};
 ```
 
 ## My Skill Set
