@@ -11,20 +11,33 @@
 
 ```
 
-● Penetration Testing (Ethical Hacking) = Burp Suite, Metasploit, Nmap, Wireshark, Hashcat, John the Ripper, Aircrack-ng,
- OpenVAS, Nessus
-
-● Reverse Engineering = Ghidra, x64dbg, edb-debugger, Ollydbg, Radare2
-
-●	Digital Forensics = Autopsy, Volatility, FTK Imager, Sleuth Kit, Memory & Disk Forensics
-
-●	Hardware Pentesting = SPI, UART, IIC, JTAG, RS232, RS485, SDR (Software Defined Radio)
+● Penetration Testing (Ethical Hacking) =Burp Suite, Metasploit, Nmap, Wireshark, Hashcat, John the Ripper,
+Aircrack-ng, OpenVAS, Nessus, Bloodhound, PowerView, mitm6, Responder
 
 ●	Networking & Security Protocols = TCP/IP, DNS, DHCP, VPNs, SSL/TLS, Wi-Fi Security, Packet Sniffing & Analysis
 
-●	Shell Scripting = Bash, PowerShell
+● SIEM = Splunk, Wazuh
 
-●	Programming and Scripting = C, Python, Assembly x64 & ARM, Java, Java Script, C++, MySQL, COBOL
+●	Digital Forensics = Autopsy, Volatility, FTK Imager, Sleuth Kit, Memory & Disk Forensics
+
+● Reverse Engineering = Ghidra, x64dbg, edb-debugger, Ollydbg, Radare2
+
+●	Hardware Pentesting = SPI, UART, IIC, JTAG, RS232, RS485, SDR (Software Defined Radio)
+
+●	Programming and Scripting = C, Python, Assembly x64 & ARM, Java, Java Script, C++, MySQL
+
+●	Shell Scripting = Bash, PowerShell, EFI V2.2,GRUB
+
+● Operating System = Linux, Windows, Cisco IOS
+
+● Web Vulnerabilities = SQLi, XSS, CSRF, IDOR, SSRF, Auth Bypass
+
+● Active Directory = Kerberoasting, BloodHound, LDAP Enum, Privilege Escalation
+
+● SOC/Pentest = Incident Response, Vulnerability Assessment, MITRE ATT&CK, Log Analysis
+
+● AI/LLM Security = Prompt Injection, Jailbreaking, OWASP LLM Top 10, MITRE ATLAS, RAG Security,
+Model/Data Poisoning
 
 ```
 
@@ -40,9 +53,9 @@ I'm always eager to connect with fellow developers, tech enthusiasts, and collab
 ## 🎖️ Certifications
 
 <p>
-  <img src="./img/nb.png" width="33%" />
-  <img src="./img/IC.png" width="33%" />
-  <img src="./img/chb.png" width="33%" />
+  <img src="./img/eh.png" width="33%" />
+  <img src="./img/ctm.png" width="33%" />
+  <img src="./img/nd.png" width="33%" />
 </p>
 
 ---
